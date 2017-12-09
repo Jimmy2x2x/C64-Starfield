@@ -5,7 +5,7 @@
 ; This code has been extracted from my 2017 Commodore 64 game 'Galencia'
 ; and this portion of the code is placed in the public domain 10 December 2017
 ; feel free to use this code for any purpose with the exception of reproducing
-; this tutorial, in part of whole, in a magazine, diskmag, website or similar.
+; this tutorial, in part or whole, in a magazine, diskmag, website or similar.
 ; If you want to do this, please email me and ask for permission prior to
 ; publication.
 
