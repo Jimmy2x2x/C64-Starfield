@@ -13,7 +13,7 @@
 ; with heavy comments and everything defined to be as portable as possible.
 
 ; If you find this code useful and would like to see more like this
-; you can buy me a pint via the magic of paypal
+; you can buy me a beer via the magic of paypal ;)
 
 ; my paypal: jay.aldred@gmail.com
 
